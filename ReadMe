@@ -1,0 +1,50 @@
+SkyGuide
+SkyGuide is a weather-based place recommendation app that integrates real-time weather data with destination recommendations to ensure users can plan their activities perfectly according to the weather conditions. Whether you're looking for a sunny spot for brunch or a dry day for hiking, SkyGuide offers intuitive, personalized guidance to help you make the most out of every day.
+
+Features
+Real-Time Weather Data: Access up-to-date weather information to plan your activities.
+Personalized Recommendations: Get suggestions for places and activities based on current and forecasted weather conditions.
+User Preferences: Customize the recommendations by setting your preferences for temperature, weather type, and activities.
+Safety Tips: Receive advice on what to wear and what to carry based on the weather.
+Interactive Interface: Easy-to-navigate user interface that ensures a pleasant user experience.
+Getting Started
+Prerequisites
+Before you begin, ensure you have the following installed:
+
+Node.js (LTS version)
+npm (comes with Node.js)
+React Native CLI
+Android Studio or Xcode (for iOS development)
+Installation
+Clone the repository:
+
+bash
+Copy code
+git clone https://github.com/yourusername/SkyGuide.git
+cd SkyGuide
+Install the dependencies:
+
+bash
+Copy code
+npm install
+Start the Metro Bundler:
+
+bash
+Copy code
+npx react-native start
+Run the app on a device or emulator:
+
+For Android:
+bash
+Copy code
+npx react-native run-android
+For iOS:
+bash
+Copy code
+npx react-native run-ios
+Usage
+After launching the app, you can:
+
+Enter your location to receive weather forecasts.
+Customize your preferences to receive personalized recommendations.
+Explore recommended places and activities based on the current weather.
